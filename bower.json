@@ -1,0 +1,32 @@
+{
+  "name": "angular-pickadate.js",
+  "version": "0.0.0",
+  "description": "Angular directives for pickadate.js",
+  "main": "angular-pickadate.js",
+  "keywords": [
+    "PatrickJS",
+    "gdi2290",
+    "angular.js",
+    "angularjs",
+    "angular",
+    "pickadate.js",
+    "pickadate",
+    "pickatime",
+    "pickatime.js",
+    "datepicker",
+    "timepicker",
+    "datetimes"
+  ],
+  "homepage": "https://github.com/gdi2290/angular-pickadate.js",
+  "authors": [
+    "gdi2290 <github@gdi2290.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
