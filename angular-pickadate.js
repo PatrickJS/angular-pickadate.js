@@ -109,11 +109,11 @@
           }
 
           ready();
-          var destory = scope.$on('$destory', function() {
+          var destroy = scope.$on('$destroy', function() {
             watchModel();
             minDate();
             maxDate();
-            destory();
+            destroy();
           });
         });
 
@@ -222,11 +222,11 @@
           }
 
           ready();
-          var destory = scope.$on('$destory', function() {
+          var destroy = scope.$on('$destroy', function() {
             watchModel();
             minTime();
             maxTime();
-            destory();
+            destroy();
           });
         });
 
